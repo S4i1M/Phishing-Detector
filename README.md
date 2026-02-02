@@ -49,8 +49,3 @@ Security education and prototyping
 
 This project is a risk-assessment prototype and does not claim to verify all legitimate bank websites.
 It is intended to reduce phishing risk, not provide absolute guarantees.
-
-
-✅ a clean folder structure
-
-Just tell me what you want next.
